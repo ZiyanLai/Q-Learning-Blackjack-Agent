@@ -1,6 +1,18 @@
 # Q‑Learning for Blackjack
 
 A reinforcement‑learning study comparing simple and full‑action agents against a rule‑based basic strategy.
+---
+
+## Full Report
+
+<p align="center">
+  <object data="./Q-Learning for Blackjack.pdf" 
+          type="application/pdf" 
+          width="100%" height="600px">
+    <p>Your browser does not support embedded PDFs.  
+       You can <a href="./Q-Learning for Blackjack.pdf">download the full report here</a>.</p>
+  </object>
+</p>
 
 ---
 
@@ -30,15 +42,3 @@ Agents play millions of simulated hands and update a Q‑table to maximize long�
 - **Win Rate / Tie Rate / Loss Rate**  
 - **Reward Variance** (risk measure)
 
----
-
-## Full Report
-
-<p align="center">
-  <object data="./Q-Learning for Blackjack.pdf" 
-          type="application/pdf" 
-          width="100%" height="600px">
-    <p>Your browser does not support embedded PDFs.  
-       You can <a href="./Q-Learning for Blackjack.pdf">download the full report here</a>.</p>
-  </object>
-</p>
